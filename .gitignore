@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 .python-version # tells git to not start tracking files called .python_version
 .python-version # tells git to not start tracking files called .python_version
+=======
+>>>>>>> another_remote/master
 .python-version
